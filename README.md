@@ -1,3 +1,5 @@
 # hello-world
 the intro repository
-coding newbie
+
+
+i'm a coding newbie
